@@ -1,0 +1,199 @@
+.body{
+   overflow-y: hidden;
+}
+
+
+.nav-sub{
+    margin-left: 50px;
+}
+
+.nav-form{
+    margin-left: 40%;
+}
+
+.navbar-brand{
+    margin-left: 10%;
+    color:red;
+}
+
+.red{
+    color: red;
+}
+
+nav{
+    background-color: #FDFFFC;
+}
+
+.about-us{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 41px;
+    margin-top: 5%;
+    color: #1B264B;
+}
+
+.p-text{
+    text-align: center;
+    padding-right: 20%;
+    padding-left: 20%;
+    color: #3C3737;
+    line-height: 28px;
+    font-size: 16px;
+    
+}
+
+.what-we-do-cards{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 8%;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.opa{
+    font-size: 16px;
+    line-height: 28px;
+    color: #1B264B;
+    text-align: center;
+}
+
+.opa-text{
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 2%;
+}
+
+.decks{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.card-one{
+    border: none !important;
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+.card-sub{
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,0.08);
+    border: none;
+}
+
+.main-text{
+    font-size: 12px;
+    color: #1991EB;
+}
+
+.sub-text{
+    color: #727272;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card-body{
+    
+    border: none !important;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-text{
+    text-align: left;
+}
+
+.approach{
+    background-color:#202124;
+    height: 600px;
+    margin-bottom: 2px;
+}
+.bapp{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 41px;
+    padding-top: 3%;
+    margin-top: 5% !important;
+
+}
+
+.p-approach{
+    text-align: center;
+    padding-right: 20%;
+    padding-left: 20%;
+    color: #ffffff;
+    line-height: 28px;
+    font-size: 16px;
+    padding-top: 13px;
+}
+
+.app-h{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 19px;
+    text-align: left;
+}
+
+.app-text{
+    font-size: 15px;
+    line-height: 25px;
+    color: #aaaaaa;
+    text-align: justify;
+}
+
+.app-pad{
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-top: 5%;
+}
+
+footer{
+    background-color: #5F5F5F;
+    color: #FDFFFC;
+}
+
+.h1-responsive{
+    font-size: 70px;
+}
+
+.orange-text{
+    margin-top: 7%;
+    font-size: 40px;
+    font-weight: bold;
+    float: left;
+    text-align: justify;
+    margin-left: 10%;
+    line-height: 60px;
+}
+
+.orange-text-sub{
+    margin-top: 2%;
+    font-size: 20px;
+    text-align: justify;
+    float: left;
+    margin-left: 6% !important;
+    padding-right: 30% !important;
+}
+
+.card-image{
+    width: 100%;
+  height: 600px;
+
+}
+
+.direction{
+    margin-top: 14% !important;
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px) {
+    .navbar-brand{
+        margin-left: -2% !important;
+    }
+} 
