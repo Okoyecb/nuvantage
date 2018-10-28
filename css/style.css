@@ -111,7 +111,7 @@ nav{
 .approach{
     background-color:#202124;
     height: 600px;
-    margin-bottom: 2px;
+    margin-bottom: 20%;
 }
 .bapp{
     color: #ffffff;
@@ -155,7 +155,7 @@ nav{
 }
 
 footer{
-    background-color: #5F5F5F;
+    background-color: #202124;
     color: #FDFFFC;
 }
 
