@@ -5,6 +5,9 @@ body{
 
 .nav-sub{
     margin-left: 50px;
+    text-transform: capitalize !important;
+    font-weight: bold;
+    margin-top: 1%;
 }
 
 .nav-form{
@@ -13,7 +16,7 @@ body{
 
 .navbar-brand{
     margin-left: 10%;
-    color:red;
+    margin-top: -2%;
 }
 
 .red{
@@ -22,6 +25,7 @@ body{
 
 nav{
     background-color: #FDFFFC;
+    height: 70px;
 }
 
 .about-us{
