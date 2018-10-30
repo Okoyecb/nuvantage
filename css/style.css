@@ -29,7 +29,7 @@ nav{
 }
 
 .about-us{
-    font-size: 30px;
+    font-size: 32px;
     font-weight: 600;
     text-align: center;
     line-height: 41px;
@@ -39,11 +39,11 @@ nav{
 
 .p-text{
     text-align: center;
-    padding-right: 20%;
-    padding-left: 20%;
+    padding-right: 16%;
+    padding-left: 16%;
     color: #3C3737;
     line-height: 28px;
-    font-size: 16px;
+    font-size: 18px;
     
 }
 
